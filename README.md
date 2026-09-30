@@ -1,11 +1,31 @@
-# WellDone
+<p align="center">
+  <!-- Logonu assets/logo.png olarak yükle. Farklı bir dosya adı kullanırsan aşağıdaki yolu değiştir. -->
+  <img src="assets/logo.png" alt="WellDone logo" width="140">
+</p>
 
-> A full-stack content management platform with integrated video training, YouTube playlist synchronization, and built-in analytics.
+<h1 align="center">WellDone</h1>
 
-![Status](https://img.shields.io/badge/status-showcase%20only-lightgrey)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
+<p align="center">
+  A full-stack content management platform with integrated video training, YouTube playlist synchronization, and built-in analytics.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-showcase%20only-lightgrey" alt="Status">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+<p align="center">
+  <!-- YOUR_APP_ID yerine uygulamanın paket adını yaz (örn. com.ornek.welldone) -->
+  <a href="https://play.google.com/store/apps/details?id=YOUR_APP_ID">
+    <img src="https://img.shields.io/badge/Google%20Play-Download-3DDC84?logo=googleplay&logoColor=white" alt="Google Play">
+  </a>
+  <!-- Web sitesi linkin varsa aşağıdaki satırın yorumunu kaldır ve linki değiştir -->
+  <!-- <a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=googlechrome&logoColor=white" alt="Website"></a> -->
+</p>
+
+---
 
 ## ⚠️ About This Repository
 
@@ -27,6 +47,25 @@ WellDone is a web and mobile platform that supports an **EU transnational projec
 
 React 19 · Vite · Capacitor · Node.js / Express · MongoDB / Mongoose · JWT · Docker
 
+## Screenshots
+
+<!--
+Ekran görüntülerini repoda "screenshots" klasörüne yükle.
+Dosya adları aşağıdakilerle aynı olmalı ya da buradaki adları kendi dosyalarına göre değiştir.
+-->
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Home" width="250">
+  <img src="screenshots/videos.png" alt="Video Training" width="250">
+  <img src="screenshots/admin.png" alt="Admin Dashboard" width="250">
+</p>
+
+| Home | Video Training | Admin Dashboard |
+|:----:|:--------------:|:---------------:|
+| `screenshots/home.png` | `screenshots/videos.png` | `screenshots/admin.png` |
+
+<!-- Yukarıdaki tabloyu (dosya adı yazan kısım) görselleri ekledikten sonra silebilirsin. -->
+
 ## My Contribution
 
 I contributed to WellDone as part of the EU transnational project, combining software development with project coordination:
@@ -34,14 +73,6 @@ I contributed to WellDone as part of the EU transnational project, combining sof
 - **Mobile app development** – Made improvements and modifications to the mobile application and **published it live on Google Play**.
 - **Project dissemination** – Took part in an event to present and promote the project.
 - **Project coordination** – Supported international collaboration, knowledge exchange, and digital dissemination across Europe.
-
-[![Google Play](https://img.shields.io/badge/Google%20Play-Live-3DDC84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
-
-## Screenshots
-
-| Home Page | Video Training | Admin Dashboard |
-|-----------|----------------|-----------------|
-| _screenshot_ | _screenshot_ | _screenshot_ |
 
 ## Credits
 
