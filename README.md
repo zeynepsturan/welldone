@@ -1,9 +1,10 @@
+<h1>WellDone</h1>
 <div align="center">
   <!-- Logo: assets/logo.png olarak yükle veya GitHub'ın verdiği görsel linkini yapıştır -->
-  <img src="assets/logo.png" alt="WellDone Logo" width="150" style="margin-bottom: 10px;">
+  <img width="575" height="119" alt="WellDone Logo" src="https://github.com/user-attachments/assets/4d44cef3-5b0e-40dc-af84-71ed95262250" style="margin-bottom: 20px; />
   <br>
 
-  <h1>WellDone</h1>
+<img width="1009" height="2048" alt="welldone1" src="https://github.com/user-attachments/assets/0d9ccbf4-c1be-4c6a-9f1b-3f69214e3eaf" />
 
   <p align="center">
     <b>Wheelchair Skills Training Platform</b>
@@ -75,20 +76,26 @@ Alternatif: Bu dosyayı GitHub'da düzenlerken görseli editöre sürükle, çı
   <table>
     <tr>
       <td valign="top">
-        <img src="screenshots/home.png" width="250" style="border-radius:15px;" alt="Home">
+        <img src="https://github.com/user-attachments/assets/01a8000f-926a-4df7-8524-a4212b52f29a" width="250" style="border-radius:15px;" alt="Home">
         <p align="center"><i>Home</i></p>
       </td>
       <td valign="top">
-        <img src="screenshots/videos.png" width="250" style="border-radius:15px;" alt="Video Training">
+        <img src="https://github.com/user-attachments/assets/97fe36bc-a888-4bd0-b2b3-ddf17d7316d4" width="250" style="border-radius:15px;" alt="Video Training">
         <p align="center"><i>Video Training</i></p>
       </td>
       <td valign="top">
-        <img src="screenshots/admin.png" width="250" style="border-radius:15px;" alt="Admin Dashboard">
-        <p align="center"><i>Admin Dashboard</i></p>
+        <img src="https://github.com/user-attachments/assets/83f73201-75c3-4d6b-9a2f-6f8aa2d58d06" width="250" style="border-radius:15px;" alt="Admin Dashboard">
+        <p align="center"><i>News</i></p>
+      </td>
+      <td valign="top">
+        <img src="https://github.com/user-attachments/assets/fd6209c4-fc1e-4d14-b793-c717bc2d7d64" width="250" style="border-radius:15px;" alt="Admin Dashboard">
+        <p align="center"><i>Comments</i></p>
       </td>
     </tr>
   </table>
 </div>
+
+
 
 ---
 
@@ -101,9 +108,3 @@ Alternatif: Bu dosyayı GitHub'da düzenlerken görseli editöre sürükle, çı
 _This repository contains documentation only. Source code is not published._
 
 ---
-
-<div align="center">
-  <a href="https://zeynepsturan.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</div>
